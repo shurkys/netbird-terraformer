@@ -1,0 +1,8 @@
+.git
+generated/
+build/
+netbird-terraformer
+netbird-importer
+*.md
+Dockerfile
+.dockerignore
